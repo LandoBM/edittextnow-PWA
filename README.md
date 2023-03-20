@@ -8,6 +8,7 @@
   * [Contributors](#contributors)
   * [Test](#test)
   * [Questions](#questions)
+  * [Mock](#mock)
 
 
   
@@ -56,7 +57,7 @@
  
   
   ## Installation
-  To install, clone the repo and in your terminal code `npm start`.
+  To install, clone the repo and in your terminal code `npm i` to download node_modules and run `npm start`.
   ## Usage
   User can download the app and create notes that will last online or offline. 
   ## Contributors
@@ -70,8 +71,14 @@
   * Github : [Landon Murray](https://github.com/LandoBM/)
   * E-Mail :landon.swdeveloper@gmail.com
 
+  ## Mock
+  ![Image](./asset/edittextnow.herokuapp.com_.png)
+
   ## License
     Licensed using MIT License.
+  
+  ## Deployment
+  [Text Now](https://edittextnow.herokuapp.com/)
 
 
 - - -
