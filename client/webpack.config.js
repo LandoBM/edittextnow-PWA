@@ -29,6 +29,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         name:'TextNow Editor',
         short_name: 'T.N.E.',
+        fingerprints: false,
+        inject: true,
         description: 'Taking notes using JavaScript Syntax',
         background_color: '#234fc7',
         theme_color: '#ffffff',
@@ -36,7 +38,7 @@ module.exports = () => {
         publicPath: '/',
         icons: [
           {
-            src: path.resolve('src/images/logo.png'),
+            src: path.resolve('src/images/TextNow.png'),
             sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join('assets', 'icons')
           }
