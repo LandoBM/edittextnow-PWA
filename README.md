@@ -72,7 +72,7 @@
   * E-Mail :landon.swdeveloper@gmail.com
 
   ## Mock
-  ![Image](./asset/edittextnow.herokuapp.com_.png)
+  ![Image](./asset/Screenshot%202023-03-20%20at%2012.21.43%20AM.png)
 
   ## License
     Licensed using MIT License.
