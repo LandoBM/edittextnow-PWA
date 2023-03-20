@@ -1,5 +1,5 @@
 {
-  "name": "TextNow",
+  "name": "TNE",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
